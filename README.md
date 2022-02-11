@@ -8,7 +8,6 @@ A website built with HTML, CSS and Javascript
 * [Screenshot](#screenshot)
 * [Technologies](#technologies)
 * [Languages](#languages)
-* [Features](#features)
 * [Inspiration](#inspiration)
 
 ## General info
